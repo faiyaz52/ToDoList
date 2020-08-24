@@ -1,0 +1,6 @@
+.action{
+    opacity: 0;
+}
+.delect:hover .action{
+    opacity: 1;
+}

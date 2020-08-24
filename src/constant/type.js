@@ -1,0 +1,4 @@
+export const ADD_TODOLIST = "ADD_TODOLIST";
+export const GET_TODOLIST = "GET_TODOLIST";
+export const DELETE_TODOLIST = 'DELETE_TODOLIST';
+
